@@ -1,4 +1,4 @@
-Welcome to your new dbt project! testing
+Welcome to your new dbt project! neo testing
 
 ### Using the starter project
 
